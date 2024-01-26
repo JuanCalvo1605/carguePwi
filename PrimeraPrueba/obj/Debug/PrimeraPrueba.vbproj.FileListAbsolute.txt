@@ -1,0 +1,38 @@
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\bin\Debug\PrimeraPrueba.exe
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\bin\Debug\PrimeraPrueba.pdb
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\bin\Debug\PrimeraPrueba.xml
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\obj\Debug\PrimeraPrueba.Form1.resources
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\obj\Debug\PrimeraPrueba.Resources.resources
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\obj\Debug\PrimeraPrueba.vbproj.GenerateResource.Cache
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\obj\Debug\PrimeraPrueba.exe
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\obj\Debug\PrimeraPrueba.xml
+C:\Users\Desarrollador\AppData\Local\Temporary Projects\PrimeraPrueba\obj\Debug\PrimeraPrueba.pdb
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\PrimeraPrueba.Form1.resources
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\PrimeraPrueba.Resources.resources
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\PrimeraPrueba.vbproj.GenerateResource.Cache
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\PrimeraPrueba.cargue.resources
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Debug\office.dll
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Debug\Cargue PWI.exe
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Debug\Cargue PWI.pdb
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Debug\Cargue PWI.xml
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\Cargue PWI.exe
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\Cargue PWI.xml
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Debug\Cargue PWI.pdb
+C:\Users\Desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\Cargue PWI.exe
+C:\Users\Desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\Cargue PWI.xml
+C:\Users\Desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\Cargue PWI.pdb
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\bin\Debug\Cargue PWI.exe
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\bin\Debug\Cargue PWI.pdb
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\bin\Debug\Cargue PWI.xml
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\bin\Debug\office.dll
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\PrimeraPrueba.cargue.resources
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\PrimeraPrueba.form1.resources
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\PrimeraPrueba.Resources.resources
+C:\Users\desarrollador\Desktop\Semana 2023121\Cargue_PromedioP\PrimeraPrueba\obj\Debug\PrimeraPrueba.vbproj.GenerateResource.Cache

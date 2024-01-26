@@ -1,0 +1,11 @@
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Release\PrimeraPrueba.exe
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Release\PrimeraPrueba.pdb
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\bin\Release\PrimeraPrueba.xml
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\PrimeraPrueba.cargue.resources
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\PrimeraPrueba.Form1.resources
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\PrimeraPrueba.Resources.resources
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\PrimeraPrueba.vbproj.GenerateResource.Cache
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\PrimeraPrueba.exe
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\PrimeraPrueba.xml
+C:\Users\Desarrollador\Documents\Visual Studio 2008\Projects\PrimeraPrueba\PrimeraPrueba\obj\Release\PrimeraPrueba.pdb
